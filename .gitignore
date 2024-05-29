@@ -731,3 +731,6 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine,macos,windows,linux,rider,clion,visualstudio,visualstudiocode
+.idea/.idea.GLInnovationDay.dir/.idea/vcs.xml
+.idea/.idea.GLInnovationDay.dir/.idea/indexLayout.xml
+.idea/.idea.GLInnovationDay.dir/.idea/encodings.xml
